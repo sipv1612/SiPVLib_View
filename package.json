@@ -1,0 +1,7 @@
+{
+  "name": "com.sipvlib.view",
+  "version": "0.0.1",
+  "displayName": "SiPV Lib View",
+  "unity": "6000.0",
+  "description": "SiPV Custom View Lib"
+}
